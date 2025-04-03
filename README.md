@@ -14,4 +14,4 @@ This project focuses on **analyzing sales trends, revenue patterns, and customer
 **Customer Behavior Insights** – Assessed buying patterns and market segments.  
 
 ## 📸 Dashboard Preview  
-![powerbi_dashboard](Sales overview.png)
+![Sales-Overview_Analysis](powerbi_dashboard/Sales overview.png)
