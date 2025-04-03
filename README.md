@@ -7,3 +7,11 @@ This project focuses on **analyzing sales trends, revenue patterns, and customer
 - **Excel** – Data cleaning and preprocessing  
 - **SQL** – Data extraction, transformation, and querying  
 - **Power BI** – Data visualization and dashboard creation  
+## 📊 Key Insights  
+**Revenue Trends** – Identified peak sales periods and seasonal fluctuations.  
+**Product preferences** - identified top 10 best selling product accross different countries. 
+**Top Performing Products & Regions** – Analyzed which products drive the most revenue.  
+**Customer Behavior Insights** – Assessed buying patterns and market segments.  
+
+## 📸 Dashboard Preview  
+(Add an image of your Power BI dashboard here)*  
